@@ -1,3 +1,9 @@
+> [!IMPORTANT]
+> This specification is outdated. We do not recommend implementing your own websocket server for
+> Foxglove, as the protocol will continue to evolve. The libraries in this repository are
+> deprecated and no longer maintained. Please migrate to the [Foxglove
+> SDK](https://github.com/foxglove/foxglove-sdk).
+
 # Foxglove WebSocket protocol v1
 
 ## Protocol overview
